@@ -62,5 +62,31 @@ It supports **R-type, I-type, branch, load/store instructions** in **single-cycl
 
 ---
 
-## 📁 Project Structure
+> ⚠️ Vivado-generated files like `.xpr`, `.runs`, `.cache` are intentionally excluded.
+
+---
+
+## ▶️ How to Run (Simulation)
+1. Open **Vivado**  
+2. Create a new RTL project  
+3. Add all files from `src/`  
+4. Add testbench from `testbench/`  
+5. Run behavioral simulation  
+
+---
+
+## 🎯 Learning Outcomes
+- Understand single-cycle vs multi-cycle execution  
+- Design processor datapath and control logic  
+- Integrate instruction execution in hardware  
+- Learn trade-offs between performance and complexity  
+
+---
+
+## 👤 Author
+**Ayesha Zafar**  
+Computer Engineering, NUST – EME Campus
+
+
+
 
